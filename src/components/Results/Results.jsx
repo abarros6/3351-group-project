@@ -5,7 +5,7 @@ import dog from '../../assets/dog.jpeg'
 import fish from '../../assets/fish.jpeg'
 import smallPet from '../../assets/smallPet.jpeg'
 import resultsCat from "../../assets/resultsCat.jpeg"
-import './results.scss'
+import './Results.scss'
 
 
 
